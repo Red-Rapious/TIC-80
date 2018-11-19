@@ -5,7 +5,7 @@
 **TIC-80 TINY COMPUTER** - [https://tic.computer/](https://tic.computer/)
 
 # À propos
-TIC-80 is a **FREE** and **OPEN SOURCE** fantasy computer for making, playing and sharing tiny games.
+TIC-80 est une fantasie console **GRATUITE** et **OPEN SOURCE** pour créer, jouer et partager des petits jeux.
 
 With TIC-80 you get built-in tools for development: code, sprites, maps, sound editors and the command line, which is enough to create a mini retro game.
 
